@@ -3,6 +3,16 @@ flickr-api-node
 
 A Flickr API wrapper written for Node.js
 
+Use Case
+===============
+
+I've already done a sample site using this Flickr API Wrapper.
+It simply reads the photos from Filckr which contains Geo-Infomation.
+Then show them on a Google map. I'm going to further polish it in the following weeks.
+
+http://flickr-geo.herokuapp.com/
+
+
 MIT License
 ===============
 Copyright (C) 2012 Brandon Gao
