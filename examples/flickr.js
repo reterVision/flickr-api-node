@@ -3,7 +3,7 @@
 var express = require('express')
 	, app = express()
 	, cons = require('consolidate')
-	, flickr_api = require('../lib/flickr').flickr_api.js
+	, flickr_api = require('../lib/flickr').flickr_api
 	, sys = require('sys')
 
 // Set logger.
